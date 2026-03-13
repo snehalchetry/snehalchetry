@@ -79,16 +79,6 @@ const snehal = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=snehalchetry&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
