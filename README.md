@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Snehal%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Dev%20%7C%20AI%20Explorer%20%7C%20Builder&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Snehal%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Dev%20%7C%20AI%20Explorer%20%7C%20Builder&descAlignY=55&descSize=18" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+apps+%F0%9F%9A%80;React+%2B+TypeScript+enthusiast+%E2%9A%A1;Exploring+Data+Science+%26+ML+%F0%9F%A4%96;Always+learning%2C+always+shipping+%F0%9F%93%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+apps;React+%2B+TypeScript+enthusiast;Exploring+Data+Science+%26+ML;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```ts
 const snehal = {
@@ -26,7 +26,7 @@ const snehal = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -48,21 +48,21 @@ const snehal = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏠 **Basera X** | AI-powered hostel management — attendance, food feedback, outing tracking & more | React · TypeScript · AI |
-| ✅ **Taskflow Dashboard** | Task management with project filtering, priority levels & modal-based creation | React · TypeScript |
-| 📝 **Registration Form App** | AI bio generator with glassmorphism UI & interest-based profile suggestions | React · TypeScript · GenAI |
+|  **Basera X** | AI-powered hostel management — attendance, food feedback, outing tracking & more | React · TypeScript · AI |
+|  **Taskflow Dashboard** | Task management with project filtering, priority levels & modal-based creation | React · TypeScript |
+|  **Registration Form App** | AI bio generator with glassmorphism UI & interest-based profile suggestions | React · TypeScript · GenAI |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -79,7 +79,7 @@ const snehal = {
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -89,7 +89,7 @@ const snehal = {
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
